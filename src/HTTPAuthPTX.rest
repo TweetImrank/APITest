@@ -1,0 +1,10 @@
+POST https://payments.cat.uk.pt-x.com/payments-service/api/security/login
+Host:payments.cat.uk.pt-x.com
+User-Agent:api-v2.5
+Cookie:JSESSIONID=97bRnm0SgszNjL8iod95-D74_firRXIYcmdLH3OFIm21a0evXBIU!-1142006166
+X-CSRF: KF7Egc4LaRGL3kxdlPopkwdEOvqOB0AiFkpbIRQi3sk=
+Content-Type:application/json
+
+
+{"loginTokens":[{"key":"com.bottomline.security.provider.login.email","value":"TES_PTXAPI@bartscharity.org.uk"},{"key":"com.bottomline.security.provider.login.password","value":"TESuser01"}],"apiVersion":"{\"major\":\"1\",\"minor\":\"0\",\"patch\":\"0\",\"build\":\"0\"}","purpose":"cpay-auth","tokenLocation":"HEADER"}
+

@@ -1,0 +1,1 @@
+GET https://payments.cat.uk.pt-x.com/payments-service/api/security/handshake 
